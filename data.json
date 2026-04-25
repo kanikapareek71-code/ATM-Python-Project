@@ -1,18 +1,1 @@
-{
-    "naman": {
-        "pin": "5555",
-        "balance": 4240.0,
-        "transactions": [
-            {
-                "type": "Deposit",
-                "amount": 200.0,
-                "time": "2026-04-25 12:08:01"
-            },
-            {
-                "type": "Deposit",
-                "amount": 40.0,
-                "time": "2026-04-25 12:08:12"
-            }
-        ]
-    }
-}
+{}
